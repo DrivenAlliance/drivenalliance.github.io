@@ -1,0 +1,31 @@
+- people:
+
+  - id: garren
+    name: Garren Smith
+    title: "002"
+    twitter: https://twitter.com/garrensmith
+
+  - id: mark
+    name: Mark Pearl
+    title: "003"
+    twitter: https://twitter.com/MarkPearlCoZa
+    linkedin: https://www.linkedin.com/profile/view?id=49855797
+
+  - id: bjorn
+    name: Bjorn Holdt
+    title: "005"
+    twitter: https://twitter.com/bholdt
+    linkedin: https://www.linkedin.com/in/bjorn-holdt-4640aa1b
+
+  - id: coenie
+    name: Coenie Beyers
+    title: "010"
+    twitter: https://twitter.com/coeniebeyers
+    linkedin: https://www.linkedin.com/profile/view?id=86664050
+
+- people:
+
+  - id: dani
+    name: Dani Mdleleni
+    title: "013"
+    linkedin: https://www.linkedin.com/profile/view?id=401985079
