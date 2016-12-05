@@ -3,7 +3,6 @@
   - id: garren
     name: Garren Smith
     title: "002"
-    twitter: https://twitter.com/garrensmith
 
   - id: mark
     name: Mark Pearl
@@ -25,7 +24,24 @@
 
 - people:
 
+  - id: terence
+    name: Terence Kruger
+    title: "012"
+    twitter: https://twitter.com/tjmkruger
+    linkedin: https://www.linkedin.com/profile/view?id=82382743
+
   - id: dani
     name: Dani Mdleleni
     title: "013"
     linkedin: https://www.linkedin.com/profile/view?id=401985079
+
+  - id: mandla
+    name: Mandla Magagula
+    title: "016"
+    twitter: https://twitter.com/mandlamag
+ 
+  - id: steven
+    name: Steven McDonald
+    title: "017"
+    twitter: https://twitter.com/StevenMcD_code
+    linkedin: https://www.linkedin.com/profile/view?id=169764364
