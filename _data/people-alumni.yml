@@ -17,13 +17,19 @@
     twitter: https://twitter.com/bholdt
     linkedin: https://www.linkedin.com/in/bjorn-holdt-4640aa1b
 
+  - id: candice
+    name: Candice Mesk
+    title: "008"
+    twitter: https://twitter.com/candicemesk
+    linkedin: https://www.linkedin.com/profile/view?id=117315286
+
+- people:
+
   - id: coenie
     name: Coenie Beyers
     title: "010"
     twitter: https://twitter.com/coeniebeyers
     linkedin: https://www.linkedin.com/profile/view?id=86664050
-
-- people:
 
   - id: terence
     name: Terence Kruger
@@ -36,6 +42,14 @@
     title: "013"
     linkedin: https://www.linkedin.com/profile/view?id=401985079
 
+  - id: theo
+    name: Theo Bohnen
+    title: "015"
+    twitter: https://twitter.com/tbohnenJnr
+    linkedin: https://www.linkedin.com/profile/view?id=93840703
+
+- people:
+
   - id: mandla
     name: Mandla Magagula
     title: "016"
@@ -46,3 +60,8 @@
     title: "017"
     twitter: https://twitter.com/StevenMcD_code
     linkedin: https://www.linkedin.com/profile/view?id=169764364
+
+  - id: anthea
+    name: Anthea Gilfillan
+    title: "019"
+ 

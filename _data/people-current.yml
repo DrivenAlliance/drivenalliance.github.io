@@ -18,36 +18,18 @@
     twitter: https://twitter.com/jancowol
     linkedin: https://www.linkedin.com/profile/view?id=9312534
 
-  - id: candice
-    name: Candice Mesk
-    title: "008"
-    twitter: https://twitter.com/candicemesk
-    linkedin: https://www.linkedin.com/profile/view?id=117315286
-
-- people:
-
-  - id: theo
-    name: Theo Bohnen
-    title: "015"
-    twitter: https://twitter.com/tbohnenJnr
-    linkedin: https://www.linkedin.com/profile/view?id=93840703
-
-  - id: anthea
-    name: Anthea Gilfillan
-    title: "019"
- 
   - id: adriaan
     name: Adriaan Putter
     title: "020"
     twitter: https://twitter.com/adriaanp
     linkedin: https://www.linkedin.com/in/adriaanp
 
+- people:
+
   - id: gareth
     name: Gareth Stephenson
     title: "021"
     twitter: https://twitter.com/garethstep
-
-- people:
 
   - id: barry
     name: Barry Tandy
